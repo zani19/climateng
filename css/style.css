@@ -65,3 +65,9 @@ h1 {}
 .title-img {
     width: 40rem;
 }
+
+.cabeca{
+    width: 20rem;
+    text-align: center;
+    border-style: outset;
+}
