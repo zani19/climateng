@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {}
+
+/* PALETTES https://colorhunt.co/palette/0513672d31fa5d8bf4dff6ff */
+.palettes {
+    background-color: #051367;
+    background-color: #2D31FA;
+    background-color: #5D8BF4;
+    background-color: #DFF6FF;
+}
+
+/* Headings */
+.big-heading{
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+/* SECTIONS */
+
+.colored-section {
+    background-color: #051367;
+    color: #DFF6FF;
+}
+
+.white-section {
+    background-color: #DFF6FF;
+    color: #051367;
+}
+
+/* NAVBAR */
+
+.navbar {
+    padding: 0 0 5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+
+}
+
+.nav-link {
+    color: #DFF6FF;
+    width: 9rem;
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.nav-link:hover {
+    color: #5D8BF4;
+}
+
+.climateng_img {
+    width: 15rem;
+}
+
+/* Title */
+.title-img {
+    width: 40rem;
+}
