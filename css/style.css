@@ -27,11 +27,13 @@ h1 {}
 .colored-section {
     background-color: #051367;
     color: #DFF6FF;
+    
 }
 
 .white-section {
     background-color: #DFF6FF;
     color: #051367;
+    text-align: center;
 }
 
 /* NAVBAR */
