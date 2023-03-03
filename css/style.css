@@ -106,3 +106,24 @@ p {
     box-shadow: 1px 1px 2px #888;
     z-index: 1000;
 }
+
+@media (max-width: 1028px) {
+
+    #title {
+        text-align: center;
+
+    }
+
+    .title-img {
+        position: static;
+        width: 80%;
+        
+    }
+
+    .img-quem-somos {
+        width: 90%;
+        margin: auto;
+    
+    }
+
+}
